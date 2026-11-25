@@ -48,7 +48,7 @@ This GitHub profile serves as a public technical portfolio: every repository her
 
 | Repository | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[PyPractice](https://github.com/indomitusone/pypractice)** | Educational, WCAG AA/AAA accessible Python desktop IDE with zero external dependencies, isolated subprocess execution, visual step-by-step debugger, and preventive AST Safe Mode. | `Python 3.10+` · `Tkinter` · `Stdlib` | Active (`v0.2.0`) |
+| **[PyPractice](https://github.com/indomitusone/pypractice)** | Educational, WCAG AA/AAA accessible Python desktop IDE with zero external dependencies, isolated subprocess execution, visual step-by-step debugger, and preventive AST Safe Mode. | `Python 3.10+` · `Tkinter` · `Stdlib` | Active (`v0.2.1`) |
 
 > Additional technical notes, labs, and project documentation are published at **[indomitusone.com](https://indomitusone.com/)**.
 
